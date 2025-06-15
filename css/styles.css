@@ -32,3 +32,21 @@ body {
 .main-screen {
     padding: 0px var(--horizontal--space);
 }
+
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+.main-screen {
+  padding: 10px 0;
+}
